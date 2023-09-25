@@ -2,9 +2,9 @@
 
 Task 1: Set up the project structure and initialize Git repository.
 
-## Doing task 2
-
 Task 2: Implement the user interface for currency selection.
+
+## Doing task 3 and 4
 
 Task 3: Fetch and display currency exchange rates.
 
